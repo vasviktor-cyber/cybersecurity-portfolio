@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Viktor Vas | Junior SOC Analyst & Blue Team Spezialist
@@ -24,6 +25,8 @@ Vor meiner zivilen Karriere diente ich als **Kommandant in der strategischen Luf
 Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (193/200 Punkte)** abgeschlossen und gehörte zu den **Top 4 von 19 Teilnehmern** in einem 14-wöchigen Intensivprogramm. Mein Portfolio basiert auf realen Vorfällen — darunter die vollständige Untersuchung eines Rhadamanthys-Infostealer-Angriffs auf meine eigene Workstation.
 
 **Ziel:** Junior SOC Analyst Position im DACH-Raum (Remote-Option), mit langfristigem Ausbau durch CompTIA Security+ und ISO 27001 Zertifizierungen.
+
+📄 **Gesamtes Portfolio als Präsentation:** [SOC Analyst Portfolio (PDF)](portfolio/presentations/Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf)
 
 ---
 
@@ -54,6 +57,18 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 ![UART](https://img.shields.io/badge/UART-Serielles_Debugging-607D8B?style=flat-square)
 ![BIOS/UEFI](https://img.shields.io/badge/BIOS%2FUEFI-Firmware--Konfiguration-333333?style=flat-square)
 ![Virtualisierung](https://img.shields.io/badge/Virtualisierung-VMs_%26_Sandbox-6A1B9A?style=flat-square)
+
+---
+
+## 🏗️ Defense-in-Depth Architektur — Überblick
+
+<div align="center">
+
+<img src="portfolio/infographics/Infographic_Defense_in_Depth_Architecture_DE.png" alt="Defense-in-Depth Architektur Infografik" width="600"/>
+
+*Vollständige Visualisierung meiner Sicherheitsarchitektur: STRIDE-Analyse, Trust Boundaries, Netzwerk-Mitigationsmatrix und IR-Lebenszyklus.*
+
+</div>
 
 ---
 
@@ -104,7 +119,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
   - Erstellung einer **Mitigationsmatrix** pro Asset-Typ (WAF, Rate Limiting, 2FA, Least Privilege, Eingabevalidierung)
 - **Ergebnis:** Umfassende Defense-in-Depth-Strategie. Akademische Validierung: **30/30 Punkte**.
 
-📄 **Dokumentation:** [Threat Model Projekt (PDF)](portfolio/projects/Project_eBay_Threat_Modeling_DE.pdf)
+📄 **Dokumentation:** [Threat Model Projekt (PDF)](portfolio/projects/Project_eBay_Threat_Modeling_DE.pdf) · [Microsoft Threat Modeling Tool — Screenshot](portfolio/screenshots/Ebay_Threat_Model_Tool_Screenshot.jpg)
 
 ---
 
@@ -150,6 +165,8 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 **Aktuell angestrebt:** CompTIA Security+ · ISO 27001
 
+📄 **Nachweis:** [TryHackMe Pre Security — Zertifikat](certifications/TryHackMe_Pre_Security_Zertifikat.jpg)
+
 ---
 
 ## 🌍 Sprachen
@@ -180,13 +197,18 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 │   │   ├── Project_eBay_Threat_Modeling_DE.pdf
 │   │   ├── Project_Blue_Team_Homelab_Build_DE.pdf
 │   │   └── Report_Homelab_Architecture_DE.pdf
-│   └── 📂 presentations/
-│       ├── Presentation_Rhadamanthys_Analysis_DE.pdf
-│       ├── Presentation_Colle_Security_Blueprint_DE.pdf
-│       ├── Presentation_ASUS_Router_SPI_Recovery_DE.pdf
-│       └── Presentation_Homelab_Engineering_DE.pdf
+│   ├── 📂 presentations/
+│   │   ├── Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf
+│   │   ├── Presentation_Rhadamanthys_Analysis_DE.pdf
+│   │   ├── Presentation_Colle_Security_Blueprint_DE.pdf
+│   │   ├── Presentation_ASUS_Router_SPI_Recovery_DE.pdf
+│   │   └── Presentation_Homelab_Engineering_DE.pdf
+│   ├── 📂 infographics/
+│   │   └── Infographic_Defense_in_Depth_Architecture_DE.png
+│   └── 📂 screenshots/
+│       └── Ebay_Threat_Model_Tool_Screenshot.jpg
 └── 📂 certifications/
-    └── (Zertifikate & Nachweise)
+    └── TryHackMe_Pre_Security_Zertifikat.jpg
 ```
 
 ---
