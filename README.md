@@ -168,8 +168,8 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 | Nachweis | Vorschau |
 |---|---|
-| Robot Dreams — Cybersecurity Zertifikat (mit Auszeichnung) | [Zertifikat anzeigen](certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg) |
-| TryHackMe — Pre Security Zertifikat | [Zertifikat anzeigen](certifications/TryHackMe_Pre_Security_Zertifikat.jpg) |
+| Robot Dreams — Cybersecurity Zertifikat (mit Auszeichnung) | [Zertifikat anzeigen](portfolio/certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg) |
+| TryHackMe — Pre Security Zertifikat | [Zertifikat anzeigen](portfolio/certifications/TryHackMe_Pre_Security_Zertifikat.jpg) |
 
 ---
 
@@ -192,28 +192,28 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 ## 📁 Repository-Struktur
 
 ```
-📦 vasviktor-cyber
+📦 cybersecurity-portfolio
 ├── 📄 README.md
-├── 📂 portfolio/
-│   ├── 📂 projects/
-│   │   ├── Report_Rhadamanthys_Infostealer_DE.pdf
-│   │   ├── Project_Colle_Incident_Response_Plan_DE.pdf
-│   │   ├── Project_eBay_Threat_Modeling_DE.pdf
-│   │   ├── Project_Blue_Team_Homelab_Build_DE.pdf
-│   │   └── Report_Homelab_Architecture_DE.pdf
-│   ├── 📂 presentations/
-│   │   ├── Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf
-│   │   ├── Presentation_Rhadamanthys_Analysis_DE.pdf
-│   │   ├── Presentation_Colle_Security_Blueprint_DE.pdf
-│   │   ├── Presentation_ASUS_Router_SPI_Recovery_DE.pdf
-│   │   └── Presentation_Homelab_Engineering_DE.pdf
-│   ├── 📂 infographics/
-│   │   └── Infographic_Defense_in_Depth_Architecture_DE.png
-│   └── 📂 screenshots/
-│       └── Ebay_Threat_Model_Tool_Screenshot.jpg
-└── 📂 certifications/
-    ├── Robot_Dreams_Cybersecurity_Zertifikat.jpg
-    └── TryHackMe_Pre_Security_Zertifikat.jpg
+└── 📂 portfolio/
+    ├── 📂 projects/
+    │   ├── Report_Rhadamanthys_Infostealer_DE.pdf
+    │   ├── Project_Colle_Incident_Response_Plan_DE.pdf
+    │   ├── Project_eBay_Threat_Modeling_DE.pdf
+    │   ├── Project_Blue_Team_Homelab_Build_DE.pdf
+    │   └── Report_Homelab_Architecture_DE.pdf
+    ├── 📂 presentations/
+    │   ├── Portfolio_SOC_Analyst_Viktor_Vas_DE.pdf
+    │   ├── Presentation_Rhadamanthys_Analysis_DE.pdf
+    │   ├── Presentation_Colle_Security_Blueprint_DE.pdf
+    │   ├── Presentation_ASUS_Router_SPI_Recovery_DE.pdf
+    │   └── Presentation_Homelab_Engineering_DE.pdf
+    ├── 📂 infographics/
+    │   └── Infographic_Defense_in_Depth_Architecture_DE.png
+    ├── 📂 screenshots/
+    │   └── Ebay_Threat_Model_Tool_Screenshot.jpg
+    └── 📂 certifications/
+        ├── Robot_Dreams_Cybersecurity_Zertifikat.jpg
+        └── TryHackMe_Pre_Security_Zertifikat.jpg
 ```
 
 ---
