@@ -4,7 +4,7 @@
 
 **`Verteidigung & Incident Response · Bedrohungsmodellierung · OSINT · Hardware-Sicherheit`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-viktor--vas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/viktor-vas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-viktor--vas--cyber-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/viktor-vas-cyber)
 [![GitHub](https://img.shields.io/badge/GitHub-vasviktor--cyber-181717?style=flat&logo=github&logoColor=white)](https://github.com/vasviktor-cyber)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security-88cc14?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![Standort](https://img.shields.io/badge/Standort-Bad_Salzuflen,_Deutschland-blue?style=flat&logo=googlemaps&logoColor=white)](#)
