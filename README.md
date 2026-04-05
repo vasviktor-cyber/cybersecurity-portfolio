@@ -185,7 +185,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 ## 💼 Beruflicher Hintergrund
 
-**Über 10 Jahre** als Baumaschinenmechatroniker bei **Collé Rental & Sales** — systematische Fehlerdiagnose an komplexen elektronischen Systemen, Durchführung von Sicherheitsprüfungen (DGUV/TRBS-Compliance) und technische Dokumentation. Kompetenzen, die direkt auf SOC-Operationen, Log-Analyse und IT-Sicherheitsaudits übertragbar sind.
+**Über 6 Jahre** als Baumaschinenmechatroniker bei **Collé Rental & Sales** — systematische Fehlerdiagnose an komplexen elektronischen Systemen, Durchführung von Sicherheitsprüfungen (DGUV/TRBS-Compliance) und technische Dokumentation. Kompetenzen, die direkt auf SOC-Operationen, Log-Analyse und IT-Sicherheitsaudits übertragbar sind.
 
 ---
 
