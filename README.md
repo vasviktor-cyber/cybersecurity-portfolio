@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Viktor Vas | Junior SOC Analyst & Blue Team Spezialist
@@ -165,7 +164,12 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 **Aktuell angestrebt:** CompTIA Security+ · ISO 27001
 
-📄 **Nachweis:** [TryHackMe Pre Security — Zertifikat](certifications/TryHackMe_Pre_Security_Zertifikat.jpg)
+### Nachweise
+
+| Nachweis | Vorschau |
+|---|---|
+| Robot Dreams — Cybersecurity Zertifikat (mit Auszeichnung) | [Zertifikat anzeigen](certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg) |
+| TryHackMe — Pre Security Zertifikat | [Zertifikat anzeigen](certifications/TryHackMe_Pre_Security_Zertifikat.jpg) |
 
 ---
 
@@ -208,6 +212,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 │   └── 📂 screenshots/
 │       └── Ebay_Threat_Model_Tool_Screenshot.jpg
 └── 📂 certifications/
+    ├── Robot_Dreams_Cybersecurity_Zertifikat.jpg
     └── TryHackMe_Pre_Security_Zertifikat.jpg
 ```
 
