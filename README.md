@@ -49,7 +49,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 ![Nmap](https://img.shields.io/badge/Nmap-Port--Scanning-4682B4?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Verkehrsanalyse-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-Sicherheit-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Grundlagen-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Systemadministration & Hardening-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Hardware & Low-Level Sicherheit
 ![SPI Flash](https://img.shields.io/badge/SPI_Flash-CH341A-FF6F00?style=flat-square)
