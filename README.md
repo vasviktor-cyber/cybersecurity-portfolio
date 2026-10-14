@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-viktor--vas--cyber-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/viktor-vas-cyber)
 [![GitHub](https://img.shields.io/badge/GitHub-vasviktor--cyber-181717?style=flat&logo=github&logoColor=white)](https://github.com/vasviktor-cyber)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyber_Security_101-88cc14?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cyborg3333_%7C_CS_101-88cc14?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cyborg3333)
 [![Standort](https://img.shields.io/badge/Standort-Bad_Salzuflen,_Deutschland-blue?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -178,12 +178,10 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 ## 🌍 Sprachen
 
-| Sprache | Niveau |
-|---|---|
-| 🇭🇺 Ungarisch | Muttersprache |
-| 🇩🇪 Deutsch | Gut in Wort und Schrift |
-| 🇷🇸 Serbisch | Fließend |
-
+* 🇭🇺 **Ungarisch:** Muttersprache
+* 🇩🇪 **Deutsch:** Fließend in Wort und Schrift (über 10 Jahre Berufserfahrung in Deutschland)
+* 🇷🇸 **Serbisch:** Konversationssicher / Gute Kenntnisse
+* 🇬🇧 **Englisch:** Gutes Fach- und Leseverständnis (technische Dokumentation, Log-Analyse, TryHackMe Labs) · *im aktiven Ausbau*
 ---
 
 ## 💼 Beruflicher Hintergrund
@@ -229,7 +227,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 [![Kontakt](https://img.shields.io/badge/KONTAKT-HUCICOK%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hucicok@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-VIKTOR--VAS--CYBER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-vas-cyber)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-VIKTOR_VAS-212C42?style=for-the-badge&logo=tryhackme&logoColor=88cc14)](https://tryhackme.com/)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-CYBORG3333-212C42?style=for-the-badge&logo=tryhackme&logoColor=88cc14)](https://tryhackme.com/p/Cyborg3333)
 [![Discord](https://img.shields.io/badge/DISCORD-v__vas86-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 </div>
