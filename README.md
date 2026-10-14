@@ -158,19 +158,21 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 ## 🎓 Ausbildung & Zertifizierungen
 
 | Zertifizierung | Anbieter | Zeitraum | Details |
-|---|---|---|---|
-| 🏆 **Cyber Security Fundamentals** | Robot Dreams | Jan – Mär 2026 | 97 % (193/200 Punkte) · Top 4 von 19 · 14 Wochen intensiv |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **Cyber Security Consultant (Weiterbildung)** | Cybersteps | Nov 2026 – *laufend* | 12 Monate Vollzeit/Fernstudium · Blue Team, SOC & Pentesting |
+| 🐧 **Linux-Systemadministrator** | Robot Dreams | Aug 2026 | **Certification with Honors** · 27 Std. (18 Lektionen) · Linux Server, Bash & Hardening |
+| 🛡️ **Cyber Security 101 Learning Path** | TryHackMe | Juli 2026 | 45+ Stunden · Blue Team, SOC Grundlagen, Netzwerk- & Systemsicherheit |
+| 🏆 **Cyber Security Fundamentals** | Robot Dreams | Jan – Mär 2026 | **97 % (193/200 Punkte)** · Top 4 von 19 · 14 Wochen intensiv |
 | ✅ **Pre Security Learning Path** | TryHackMe | März 2026 | 19 Stunden · Netzwerke, Linux, Web, Sicherheitsgrundlagen |
-| 🔧 **Elektromechaniker für Maschinen** | Technische Schule, Subotica (Serbien) | 2001 – 2004 | Elektronik, Mechanik, Schaltpläne, technische Wartung |
+| 🔧 **Elektromechaniker für Maschinen** | Technische Schule, Subotica | 2001 – 2004 | Elektronik, Mechanik, Schaltpläne, technische Wartung |
 
-**Aktuell angestrebt:** CompTIA Security+ · ISO 27001
+**Aktuell im Fokus:** Cybersteps Cyber Security Consultant · CompTIA Security+ · ISO 27001 · Wazuh SIEM Lab
 
-### Nachweise
-
-| Nachweis | Vorschau |
-|---|---|
-| Robot Dreams — Cybersecurity Zertifikat (mit Auszeichnung) | [Zertifikat anzeigen](portfolio/certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg) |
-| TryHackMe — Pre Security Zertifikat | [Zertifikat anzeigen](portfolio/certifications/TryHackMe_Pre_Security_Zertifikat.jpg) |
+### 📜 Nachweise (Zertifikate ansehen)
+* [🏆 Robot Dreams – Cyber Security Fundamentals Zertifikat](./portfolio/certifications/Robot_Dreams_Cybersecurity_Zertifikat.jpg)
+* [🐧 Robot Dreams – Linux-Systemadministrator Zertifikat (With Honors)](./portfolio/certifications/Robot_Dreams_Linux_Systemadministrator_Zertifikat.jpg)
+* [🛡️ TryHackMe – Cyber Security 101 Zertifikat](./portfolio/certifications/TryHackMe_Cyber_Security_101_Zertifikat.jpg)
+* [✅ TryHackMe – Pre Security Zertifikat](./portfolio/certifications/TryHackMe_Pre_Security_Zertifikat.jpg)
 
 ---
 
@@ -192,7 +194,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 ## 📁 Repository-Struktur
 
-```
+```text
 📦 cybersecurity-portfolio
 ├── 📄 README.md
 └── 📂 portfolio/
@@ -214,6 +216,8 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
     │   └── Ebay_Threat_Model_Tool_Screenshot.jpg
     └── 📂 certifications/
         ├── Robot_Dreams_Cybersecurity_Zertifikat.jpg
+        ├── Robot_Dreams_Linux_Systemadministrator_Zertifikat.jpg
+        ├── TryHackMe_Cyber_Security_101_Zertifikat.jpg
         └── TryHackMe_Pre_Security_Zertifikat.jpg
 ```
 
@@ -223,6 +227,9 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 
 *Mit Disziplin gebaut. Durch Präzision angetrieben. Bereit zur Verteidigung.*
 
-[![E-Mail](https://img.shields.io/badge/Kontakt-hucicok%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hucicok@gmail.com)
+[![Kontakt](https://img.shields.io/badge/KONTAKT-HUCICOK%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hucicok@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-VIKTOR--VAS--CYBER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-vas-cyber)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-VIKTOR_VAS-212C42?style=for-the-badge&logo=tryhackme&logoColor=88cc14)](https://tryhackme.com/)
+[![Discord](https://img.shields.io/badge/DISCORD-v__vas86-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 </div>
