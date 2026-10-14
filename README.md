@@ -38,6 +38,7 @@ Ich habe die **Robot Dreams Cyber Security Fundamentals**-Akademie mit **97 % (1
 ![Log-Analyse](https://img.shields.io/badge/Log--Analyse-Triage-4CAF50?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Defense in Depth](https://img.shields.io/badge/Defense_in_Depth-Strategie-1565C0?style=flat-square)
+![Wazuh SIEM](https://img.shields.io/badge/Wazuh-SIEM_%26_XDR-00a9e0?style=flat) ![Homelab](https://img.shields.io/badge/Homelab-Pi--hole_%7C_Nginx_%7C_Docker-2496ed?style=flat)
 
 ### OSINT & Threat Intelligence
 ![Maltego](https://img.shields.io/badge/Maltego-OSINT-2596BE?style=flat-square)
